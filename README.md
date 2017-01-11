@@ -1,0 +1,1 @@
+# 32bit_Quine-McCluskey_and_Petrick_Method_in_C
