@@ -1,9 +1,9 @@
 # 32bit_Quine-McCluskey_and_Petrick_Method_in_C
 ## Features
-1. Support optimize Boolean functions with 32 variables, So Minterm range is 0 ~ 4294967295
+1. Support optimize Boolean functions with 32 variables, so minterm range is 0 ~ 4294967295
 2. Support for don't care conditions
-3. Support for Input Out of order
-4. Support for Petrick's Method to minimize Boolean functions
+3. Support for input out of order
+4. Support for Petrick's method to minimize Boolean functions
 5. Support output all minimized Boolean functions
 
 ## Features
