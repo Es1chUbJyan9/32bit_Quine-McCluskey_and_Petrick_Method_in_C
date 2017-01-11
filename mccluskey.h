@@ -66,7 +66,7 @@ void GetEssentialImplicants(bool **primeChart, int cPrimeImplicants, int cMinter
 /******************************函數實現******************************/
 //讀取 minterm 輸入，儲存為字符串
 void ReadInput(char *exp_minterms, char *exp_dontCare){
-    printf("\n32bit Quine-McCluskey and Petrick Method in C v5.03");
+    printf("\n32bit Quine-McCluskey and Petrick's Method in C v5.03");
     printf("\nCreated by Es1chUb.Jyan9@gmail.com");
     printf("\n\n#########################################################################\n");
     printf("################   Quine-McCluskey Algorithm is Started  ################\n");
