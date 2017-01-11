@@ -22,7 +22,7 @@
 注意：在某些特殊情況下，會輸出不同順序的同一函數，但並不影響正確性。
 EX: m(9,12,13,15)+d(1,4,5,7,8,11,14)
 
-## References
+## References & Gratitude
 - QM算法及其他
 	http://mprc.pku.edu.cn/courses/digital/2013spring/pdf/lec8.QM.pdf
 - 以自動化程式化簡布林代數
