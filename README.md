@@ -5,6 +5,7 @@
 3. Support for input out of order
 4. Support for Petrick's method to minimize Boolean functions
 5. Support output all minimized Boolean functions
+6. Support show the full operation for each process
 
 ## Features
 1. 支援化簡三十二位變數， 即 Minterm 範圍為 0 ~ 4294967295
