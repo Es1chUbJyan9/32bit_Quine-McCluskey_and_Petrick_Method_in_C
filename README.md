@@ -1,5 +1,5 @@
 # 32bit_Quine-McCluskey_and_Petrick_Method_in_C
-## 功能簡介
+## Features
 1. 支援化簡三十二位變數， 即 Minterm 範圍為 0 ~ 4294967295
 2. 支援輸入 Don't Care
 3. 支援亂序輸入，即不須按大小順序排列
@@ -9,13 +9,13 @@
 	可於 mccluskey.h 中直接修改以下宏定義，擴充輸入的限制範圍：
 	#define EXPRESSION_MAX_LENGTH 1001
 
-## 使用說明
+## Instructions for use
 運行後依提示分兩行輸入 Minterm 與 Don't care，並用逗號「,」隔開各項即可，若無 Don't care 請輸入 -1，因無輸入偵錯，請避免額外的空白與字符。
 
 注意：在某些特殊情況下，會輸出不同順序的同一函數，但並不影響正確性。
 EX: m(9,12,13,15)+d(1,4,5,7,8,11,14)
 
-## 參考資料
+## References
 - QM算法及其他
 	http://mprc.pku.edu.cn/courses/digital/2013spring/pdf/lec8.QM.pdf
 - 以自動化程式化簡布林代數
