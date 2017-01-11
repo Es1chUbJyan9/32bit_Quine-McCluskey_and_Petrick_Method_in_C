@@ -1,5 +1,12 @@
 # 32bit_Quine-McCluskey_and_Petrick_Method_in_C
 ## Features
+1. Support optimize Boolean functions with 32 variables, So Minterm range is 0 ~ 4294967295
+2. Support for don't care conditions
+3. Support for Input Out of order
+4. Support for Petrick's Method to minimize Boolean functions
+5. Support output all minimized Boolean functions
+
+## Features
 1. 支援化簡三十二位變數， 即 Minterm 範圍為 0 ~ 4294967295
 2. 支援輸入 Don't Care
 3. 支援亂序輸入，即不須按大小順序排列
